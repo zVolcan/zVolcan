@@ -5,4 +5,4 @@ Soy zvolcan, programador full-stack y desarollador de plugins para servidores de
 contacto: https://zvolcan.site/
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvolcan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvolcan&show_icons=true)
